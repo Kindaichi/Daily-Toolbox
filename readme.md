@@ -3,7 +3,7 @@
 Programmer love tools, hand-on tools.
 
 ### Github Atom
-
+a better reference maintained at [atom-keyboard-shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
 #### Daily use key-binding
 #### basic
 - ```ctrl + .``` show key binding resolve
@@ -13,7 +13,10 @@ Programmer love tools, hand-on tools.
 - ```ctrl + g``` jum to line
 - ```F11``` full screen
 - ```ctrl + (shift) + tab``` next(previous) tab
+- ```ctrl + b``` browse tab
 - ```ctrl + r``` find symbol
+- ```ctrl + shift + m``` toggle markdown preview
+
 
 
 #### Community packages installed list
